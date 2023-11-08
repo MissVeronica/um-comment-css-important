@@ -23,7 +23,6 @@ class UM_Comment_CSS_Important {
                                  'assets/dynamic_css/', 
                                  'assets/sass/',
                                  'assets/libs/raty/',
-                                 'includes/admin/assets/css2/',
                                  'includes/admin/assets/css/',
                              );
 
